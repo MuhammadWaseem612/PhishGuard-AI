@@ -1,0 +1,1001 @@
+email_id,subject,sender,body,has_urgent_words,has_suspicious_links,has_prize_money,sender_domain_suspicious,exclamation_count,caps_ratio,link_count,has_attachments,word_count,label
+522,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,2,0.4,2,1,40,1
+738,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,3,0.16,4,1,130,1
+741,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,5,0.23,1,1,111,1
+661,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,2,0.36,4,0,84,1
+412,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.05,1,1,123,0
+679,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,2,0.27,4,1,87,1
+627,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,2,0.22,4,0,139,1
+514,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,7,0.22,2,0,98,1
+860,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,3,0.42,4,0,76,1
+137,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.03,1,1,73,0
+812,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,7,0.35,1,1,26,1
+77,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.06,0,0,72,0
+637,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,7,0.33,1,0,74,1
+974,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,3,0.35,1,1,75,1
+939,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,4,0.25,4,0,113,1
+900,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,6,0.35,3,1,93,1
+281,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.05,0,0,82,0
+884,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,4,0.36,4,0,79,1
+762,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,2,0.22,1,0,37,1
+320,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.05,1,0,182,0
+550,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,4,0.21,1,1,32,1
+175,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,0,0.05,1,0,151,0
+372,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.05,0,1,117,0
+528,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,4,0.44,3,0,47,1
+211,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,1,0.06,1,1,146,0
+236,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.06,0,1,60,0
+102,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.08,0,1,98,0
+987,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,4,0.42,1,0,46,1
+903,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,2,0.28,1,0,82,1
+948,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,6,0.45,1,1,101,1
+347,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.05,2,1,117,0
+140,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,0,0.06,0,1,76,0
+622,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,2,0.28,2,1,121,1
+500,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.05,0,1,109,0
+371,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,1,0.05,0,1,92,0
+199,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.07,2,1,108,0
+688,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,4,0.26,3,1,24,1
+585,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,6,0.22,4,1,62,1
+902,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,7,0.39,2,0,103,1
+60,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.08,0,0,175,0
+329,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.01,1,0,127,0
+97,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.02,2,0,123,0
+313,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.04,2,0,39,0
+975,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,7,0.17,1,0,73,1
+300,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.07,2,1,115,0
+278,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.03,0,0,182,0
+925,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,4,0.29,4,1,39,1
+602,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,5,0.4,1,1,129,1
+440,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.04,0,0,89,0
+838,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,4,0.34,2,1,58,1
+571,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,6,0.29,1,1,24,1
+880,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,3,0.17,2,1,123,1
+262,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.05,1,0,125,0
+579,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,3,0.42,1,0,26,1
+24,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,0,0.03,0,0,133,0
+31,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.02,0,1,100,0
+618,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,7,0.42,1,0,118,1
+11,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,1,0.02,2,1,37,0
+222,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.05,1,1,44,0
+821,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,0,1,3,0.2,2,1,88,1
+297,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.06,1,1,54,0
+55,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.08,0,0,189,0
+543,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,3,0.19,3,1,46,1
+210,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.07,2,0,98,0
+605,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,1,1,6,0.25,4,1,78,1
+693,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,4,0.33,3,1,128,1
+663,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,2,0.37,1,1,47,1
+867,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,4,0.25,2,1,91,1
+71,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.04,0,0,128,0
+544,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,4,0.2,4,0,41,1
+108,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.01,2,1,64,0
+494,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.05,0,0,187,0
+591,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,6,0.2,3,1,129,1
+742,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,5,0.19,1,1,52,1
+293,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.08,1,1,41,0
+290,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.02,0,1,46,0
+653,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,7,0.23,3,0,103,1
+40,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.08,1,0,159,0
+590,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,4,0.29,4,0,82,1
+308,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.03,1,0,45,0
+680,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,6,0.29,1,1,128,1
+67,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,1,0.06,2,1,90,0
+276,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.05,0,1,66,0
+68,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.03,2,1,78,0
+319,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.03,1,0,92,0
+549,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,3,0.35,1,1,147,1
+999,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,0,1,3,0.37,4,0,49,1
+715,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,6,0.39,2,1,23,1
+754,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,3,0.15,4,0,73,1
+328,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.04,0,1,154,0
+383,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.07,1,0,78,0
+452,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,0,0.05,0,1,56,0
+523,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,4,0.3,4,0,98,1
+219,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,1,0.05,2,0,182,0
+788,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,2,0.33,4,1,89,1
+437,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.07,1,0,52,0
+765,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,4,0.31,2,1,27,1
+89,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.03,0,1,92,0
+64,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.05,2,0,148,0
+827,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,7,0.34,2,0,46,1
+717,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,7,0.41,4,1,146,1
+352,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.01,1,1,51,0
+937,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,1,1,3,0.17,3,0,103,1
+257,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.03,2,1,191,0
+636,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,4,0.42,1,1,40,1
+645,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,1,1,4,0.4,1,1,58,1
+555,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,5,0.38,2,0,56,1
+960,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,7,0.38,1,0,133,1
+169,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.04,0,1,46,0
+918,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,4,0.28,2,1,132,1
+529,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,4,0.27,1,1,115,1
+824,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,3,0.36,2,0,58,1
+986,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,7,0.17,1,1,123,1
+817,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,7,0.18,1,0,142,1
+87,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.02,1,0,128,0
+433,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.06,1,1,92,0
+185,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.02,2,0,32,0
+979,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,7,0.43,3,1,87,1
+535,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,5,0.2,2,0,36,1
+295,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,0,0.07,0,0,76,0
+893,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,5,0.29,1,0,73,1
+426,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.02,0,0,37,0
+714,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,1,1,5,0.35,2,1,129,1
+261,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.03,0,0,80,0
+238,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.07,2,0,75,0
+560,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,5,0.4,1,0,129,1
+584,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,3,0.18,2,0,52,1
+446,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,1,0.05,2,1,44,0
+868,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,6,0.27,1,1,38,1
+801,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,4,0.39,3,0,141,1
+600,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,4,0.26,3,1,126,1
+850,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,6,0.29,4,1,148,1
+266,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.06,0,0,141,0
+996,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,3,0.25,1,1,80,1
+530,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,3,0.16,4,1,100,1
+56,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.02,0,0,176,0
+121,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.04,0,0,128,0
+216,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.06,1,1,161,0
+26,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.06,0,0,171,0
+73,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.03,2,1,47,0
+45,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.06,2,1,152,0
+248,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.01,0,0,110,0
+722,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,2,0.4,4,1,119,1
+282,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.05,0,1,151,0
+894,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,1,1,4,0.21,1,0,149,1
+915,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,6,0.34,3,0,93,1
+811,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,3,0.39,3,1,21,1
+245,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.04,2,0,137,0
+823,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,4,0.21,1,0,21,1
+322,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.06,0,0,139,0
+644,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,0,1,6,0.31,1,1,132,1
+159,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,1,0.07,1,1,124,0
+978,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,5,0.33,2,0,47,1
+430,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.06,2,1,118,0
+942,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,7,0.41,3,1,41,1
+463,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.06,0,1,120,0
+310,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.07,1,0,42,0
+698,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,3,0.19,2,0,54,1
+61,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.03,1,1,192,0
+885,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,1,1,4,0.35,3,1,110,1
+596,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,4,0.26,3,0,70,1
+768,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,7,0.41,4,0,93,1
+650,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,0,1,7,0.2,4,1,38,1
+651,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,1,1,6,0.36,4,0,64,1
+866,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,3,0.31,4,0,66,1
+669,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,1,1,5,0.28,4,0,75,1
+299,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.08,2,1,39,0
+690,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,0,1,4,0.29,4,1,71,1
+315,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,0,0.03,2,0,171,0
+311,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.04,2,0,68,0
+362,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.08,0,0,113,0
+480,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,0,0.04,1,0,64,0
+111,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.03,2,0,149,0
+990,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,2,0.28,2,1,141,1
+487,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.02,1,1,61,0
+364,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.07,2,1,192,0
+255,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.04,2,0,161,0
+260,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.02,2,0,101,0
+803,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,7,0.25,4,0,22,1
+678,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,2,0.45,1,0,145,1
+495,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.05,1,1,96,0
+671,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,2,0.18,4,0,135,1
+378,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.04,1,1,177,0
+527,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,5,0.37,2,0,129,1
+846,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,7,0.41,2,1,104,1
+138,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.08,0,0,178,0
+356,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.04,2,0,87,0
+366,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,1,0.02,0,0,122,0
+943,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,4,0.32,4,1,29,1
+750,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,3,0.42,1,1,64,1
+949,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,2,0.3,4,1,90,1
+830,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,2,0.2,3,0,67,1
+657,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,3,0.35,1,1,70,1
+200,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.08,1,1,91,0
+214,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,0,0.02,0,0,43,0
+409,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.04,2,0,34,0
+333,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.03,2,1,101,0
+209,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.02,2,1,67,0
+614,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,1,1,3,0.24,4,1,66,1
+79,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.03,0,1,164,0
+30,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.02,2,0,172,0
+536,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,3,0.22,1,1,78,1
+696,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,4,0.16,3,1,50,1
+558,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,5,0.3,3,1,99,1
+837,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,2,0.28,3,1,111,1
+597,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,5,0.31,4,1,60,1
+166,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,1,0.04,2,0,81,0
+919,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,5,0.43,2,0,51,1
+496,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.02,1,0,172,0
+825,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,6,0.43,4,0,60,1
+66,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.07,2,0,50,0
+142,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.06,2,1,41,0
+926,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,7,0.31,4,1,113,1
+828,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,2,0.36,4,1,119,1
+656,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,2,0.27,3,0,60,1
+332,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,0,0.03,0,0,168,0
+665,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,6,0.41,2,1,127,1
+250,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.02,2,0,170,0
+908,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,7,0.18,4,1,62,1
+709,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,5,0.41,3,1,139,1
+306,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.05,1,0,137,0
+735,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,7,0.21,4,0,32,1
+976,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,2,0.23,3,0,107,1
+50,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.05,2,1,125,0
+897,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,3,0.44,1,1,81,1
+3,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.07,2,1,82,0
+545,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,6,0.33,4,0,137,1
+351,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,1,0.02,1,1,46,0
+905,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,5,0.16,2,1,75,1
+537,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,1,1,5,0.27,2,1,51,1
+345,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.07,1,0,41,0
+995,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,6,0.4,2,1,59,1
+482,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.02,2,0,84,0
+576,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,7,0.16,3,0,33,1
+34,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.02,1,1,104,0
+32,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,0,0.06,1,1,74,0
+232,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.03,2,0,119,0
+964,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,0,1,6,0.29,1,1,35,1
+193,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.03,1,1,55,0
+334,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,0,0.06,1,1,66,0
+4,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.06,1,1,159,0
+205,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.05,2,0,129,0
+515,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,3,0.35,4,0,84,1
+800,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,2,0.28,2,1,34,1
+307,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.03,0,1,122,0
+110,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.07,0,0,87,0
+431,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,1,0.07,0,0,60,0
+78,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.04,0,1,55,0
+85,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.03,2,1,130,0
+287,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,1,0.08,0,1,62,0
+83,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.04,2,1,154,0
+992,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,6,0.3,2,1,65,1
+790,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,0,1,5,0.22,3,1,66,1
+895,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,7,0.42,4,0,99,1
+399,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,1,0.08,1,0,125,0
+324,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,0,0.08,1,0,34,0
+520,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,3,0.42,1,1,36,1
+917,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,1,1,4,0.43,3,1,78,1
+923,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,5,0.27,4,1,112,1
+6,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,1,0.01,0,0,88,0
+732,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,0,1,3,0.21,1,1,73,1
+466,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,1,0.04,1,0,78,0
+98,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.08,0,1,173,0
+267,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.07,0,1,111,0
+358,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.04,0,0,68,0
+869,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,3,0.27,2,0,117,1
+799,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,2,0.3,1,0,55,1
+381,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.07,1,1,132,0
+632,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,0,1,4,0.45,2,0,88,1
+382,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.08,1,1,151,0
+491,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.04,2,1,84,0
+119,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,1,0.08,2,1,38,0
+901,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,0,1,6,0.39,4,1,42,1
+251,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,1,0.06,2,1,91,0
+524,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,0,1,5,0.29,1,0,88,1
+10,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.08,1,1,38,0
+197,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.02,2,0,160,0
+604,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,0,1,2,0.28,3,0,40,1
+82,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.02,2,0,115,0
+784,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,4,0.3,3,0,43,1
+588,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,3,0.18,4,1,144,1
+798,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,5,0.34,3,0,120,1
+240,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,0,0.07,2,0,197,0
+291,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.04,2,1,71,0
+212,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.08,1,1,64,0
+718,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,2,0.37,3,0,112,1
+360,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.02,1,1,51,0
+450,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.06,2,0,97,0
+228,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.05,0,0,97,0
+951,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,1,1,4,0.38,2,1,128,1
+947,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,2,0.32,3,1,125,1
+797,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,4,0.34,2,0,36,1
+502,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,6,0.19,1,1,44,1
+465,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.06,1,0,193,0
+363,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.06,0,0,30,0
+469,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.02,2,1,107,0
+936,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,3,0.22,4,1,121,1
+429,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.03,1,1,76,0
+8,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.05,0,0,80,0
+156,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.08,0,0,82,0
+542,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,4,0.23,4,0,32,1
+441,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.04,0,1,64,0
+483,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.04,1,0,84,0
+423,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.03,2,1,180,0
+779,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,6,0.22,4,0,75,1
+950,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,0,1,4,0.39,4,0,58,1
+335,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.02,0,0,110,0
+577,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,1,1,3,0.23,2,0,125,1
+935,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,4,0.32,2,1,90,1
+568,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,3,0.2,3,0,113,1
+595,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,3,0.3,2,0,42,1
+531,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,2,0.44,3,1,68,1
+582,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,4,0.37,1,1,68,1
+708,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,3,0.17,1,1,130,1
+449,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.07,0,1,172,0
+454,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.05,1,1,106,0
+229,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.06,2,0,144,0
+353,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.02,1,1,43,0
+729,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,1,1,2,0.26,4,0,47,1
+213,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.06,1,1,93,0
+80,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,0,0.05,0,1,173,0
+149,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.06,2,0,39,0
+303,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.07,2,0,175,0
+629,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,1,1,2,0.16,4,1,27,1
+778,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,6,0.16,1,1,117,1
+507,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,3,0.3,2,0,75,1
+343,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.01,2,1,167,0
+486,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.06,0,0,59,0
+712,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,0,1,6,0.27,1,1,50,1
+134,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.04,1,1,90,0
+704,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,7,0.23,4,1,121,1
+312,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.03,1,0,91,0
+723,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,4,0.28,1,1,131,1
+630,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,2,0.25,2,0,139,1
+1,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.07,2,0,101,0
+317,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.03,0,1,102,0
+707,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,2,0.3,2,1,121,1
+548,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,5,0.37,1,1,123,1
+873,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,4,0.21,1,0,72,1
+533,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,7,0.42,2,0,110,1
+478,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.07,1,0,73,0
+405,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.04,1,0,66,0
+173,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.05,2,1,173,0
+126,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.02,1,1,174,0
+395,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.08,2,1,64,0
+421,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.04,1,1,72,0
+553,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,4,0.38,3,0,89,1
+904,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,7,0.27,4,0,98,1
+91,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,1,0.07,0,1,158,0
+940,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,5,0.4,4,0,144,1
+182,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.07,0,0,76,0
+275,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,0,0.03,1,0,33,0
+896,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,3,0.36,4,0,109,1
+70,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.07,0,0,53,0
+292,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,0,0.03,2,1,137,0
+132,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,0,0.06,1,0,120,0
+301,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.03,2,0,36,0
+425,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.02,1,1,153,0
+327,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,1,0.04,0,1,32,0
+145,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.04,1,1,130,0
+424,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.05,2,1,155,0
+581,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,7,0.37,2,0,101,1
+136,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.04,0,0,85,0
+451,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.04,2,1,107,0
+165,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.01,1,1,127,0
+29,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.04,0,1,161,0
+774,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,4,0.44,3,1,36,1
+194,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.05,2,0,150,0
+389,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.04,2,0,135,0
+853,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,3,0.41,1,0,103,1
+170,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.01,0,1,35,0
+706,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,6,0.18,2,1,85,1
+141,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.03,2,0,30,0
+174,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.02,0,0,125,0
+7,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.02,2,1,80,0
+746,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,4,0.24,3,0,117,1
+479,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.04,1,1,159,0
+74,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,0,0.04,1,1,96,0
+911,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,4,0.16,3,0,67,1
+814,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,1,1,2,0.31,2,0,94,1
+239,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.08,1,1,86,0
+146,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.03,2,1,174,0
+793,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,4,0.2,2,1,142,1
+235,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.05,0,1,66,0
+221,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.03,2,0,163,0
+924,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,7,0.17,2,1,138,1
+501,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,7,0.2,3,0,44,1
+133,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.07,2,1,170,0
+991,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,2,0.41,4,1,135,1
+775,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,6,0.23,4,0,110,1
+186,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.07,2,0,47,0
+42,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.05,1,1,83,0
+697,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,3,0.29,1,1,86,1
+109,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.01,0,1,119,0
+589,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,7,0.24,3,1,57,1
+57,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.07,1,1,190,0
+406,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.01,0,1,89,0
+443,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.05,1,0,32,0
+758,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,7,0.28,4,0,127,1
+998,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,4,0.44,1,0,92,1
+25,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.07,0,0,130,0
+468,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.02,0,0,192,0
+540,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,6,0.22,2,1,65,1
+532,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,7,0.23,1,0,141,1
+619,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,6,0.42,3,0,110,1
+695,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,2,0.42,3,0,57,1
+927,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,6,0.33,1,1,85,1
+339,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,1,0.06,0,0,88,0
+52,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,0,0.08,0,0,180,0
+508,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,2,0.28,1,0,92,1
+517,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,6,0.16,1,0,71,1
+921,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,0,1,4,0.2,1,0,78,1
+782,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,5,0.3,4,0,60,1
+265,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.03,1,0,103,0
+818,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,7,0.26,4,0,103,1
+711,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,2,0.34,1,0,40,1
+683,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,6,0.44,3,1,148,1
+833,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,2,0.29,1,1,92,1
+519,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,5,0.35,3,0,61,1
+448,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.05,0,0,136,0
+19,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.02,0,0,38,0
+716,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,4,0.38,2,1,138,1
+484,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.01,2,1,59,0
+569,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,1,1,7,0.23,1,0,128,1
+434,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,0,0.07,0,1,42,0
+368,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.01,0,1,53,0
+84,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.05,1,0,199,0
+62,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.08,0,1,62,0
+639,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,5,0.44,2,0,124,1
+273,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.07,0,1,144,0
+286,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,1,0.05,1,0,140,0
+361,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.03,0,1,121,0
+355,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.01,2,0,163,0
+457,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.03,0,1,71,0
+279,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,1,0.07,2,0,135,0
+13,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.06,1,1,83,0
+183,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.07,1,1,57,0
+369,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.08,1,0,182,0
+882,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,6,0.39,3,1,142,1
+616,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,4,0.36,1,0,57,1
+224,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.08,0,0,184,0
+573,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,4,0.28,1,1,89,1
+971,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,1,1,2,0.25,4,0,91,1
+654,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,1,1,3,0.18,2,0,146,1
+546,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,6,0.18,4,0,44,1
+583,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,4,0.44,4,1,136,1
+634,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,2,0.17,4,0,27,1
+177,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.02,0,1,30,0
+666,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,4,0.29,4,0,60,1
+674,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,6,0.27,3,1,126,1
+586,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,7,0.31,2,1,117,1
+874,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,2,0.33,3,0,48,1
+394,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.06,1,0,125,0
+164,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.06,2,0,195,0
+249,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.04,1,1,92,0
+635,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,5,0.42,2,0,34,1
+886,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,4,0.4,4,0,111,1
+670,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,0,1,2,0.43,3,0,145,1
+376,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.06,2,1,117,0
+413,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.04,2,1,30,0
+75,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.01,1,1,115,0
+114,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.02,0,0,125,0
+599,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,0,1,7,0.31,2,1,31,1
+962,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,6,0.18,2,1,128,1
+391,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,1,0.02,0,0,151,0
+105,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.04,2,0,130,0
+115,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.07,0,1,142,0
+418,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.05,1,0,30,0
+526,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,2,0.37,1,0,36,1
+458,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.08,1,0,83,0
+410,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.05,0,0,76,0
+93,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.02,0,1,146,0
+931,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,1,1,6,0.44,4,1,107,1
+90,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.04,2,1,146,0
+337,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.05,1,1,120,0
+989,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,1,1,3,0.41,2,1,106,1
+922,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,2,0.34,2,1,102,1
+934,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,5,0.4,4,1,113,1
+606,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,4,0.36,3,0,44,1
+594,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,1,1,3,0.32,2,0,63,1
+612,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,7,0.37,4,0,113,1
+95,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.06,2,1,183,0
+12,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,0,0.02,0,1,79,0
+397,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.04,1,0,188,0
+534,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,1,1,3,0.33,1,1,114,1
+44,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.02,1,1,189,0
+43,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.03,0,0,176,0
+330,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.07,2,0,58,0
+168,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.05,0,0,58,0
+498,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.08,1,1,39,0
+877,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,7,0.4,3,1,137,1
+598,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,6,0.34,3,0,66,1
+757,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,1,1,7,0.29,2,1,22,1
+101,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.05,1,1,167,0
+427,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.04,0,0,115,0
+179,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.05,0,0,102,0
+445,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.07,0,1,162,0
+417,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.05,1,1,159,0
+871,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,6,0.19,1,0,147,1
+883,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,6,0.28,3,1,83,1
+681,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,6,0.4,3,0,61,1
+178,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.04,1,1,63,0
+396,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.02,2,0,126,0
+912,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,0,1,4,0.15,3,1,133,1
+794,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,7,0.27,4,1,41,1
+961,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,0,1,5,0.26,1,1,148,1
+685,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,5,0.24,2,0,38,1
+384,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.05,2,0,163,0
+957,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,1,1,4,0.43,4,0,95,1
+752,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,0,1,5,0.34,1,0,71,1
+258,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.07,2,1,61,0
+539,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,7,0.41,1,1,37,1
+336,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.04,1,0,144,0
+16,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.07,1,0,69,0
+325,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.08,0,0,128,0
+759,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,0,1,2,0.44,1,1,30,1
+223,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.05,1,0,184,0
+180,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.07,0,1,85,0
+984,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,7,0.17,1,0,95,1
+23,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.05,1,0,77,0
+357,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.04,1,1,58,0
+667,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,4,0.32,2,0,76,1
+862,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,7,0.27,4,0,64,1
+341,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.06,2,0,195,0
+432,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.07,0,0,119,0
+552,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,5,0.37,2,0,140,1
+834,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,7,0.21,4,1,93,1
+204,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.02,1,1,93,0
+631,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,6,0.4,4,1,31,1
+94,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,0,0.08,2,1,98,0
+559,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,5,0.32,2,1,101,1
+69,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.02,1,0,75,0
+623,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,7,0.41,3,1,38,1
+285,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.03,0,0,68,0
+845,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,7,0.39,3,0,47,1
+435,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,0,0.02,2,0,97,0
+154,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.01,2,0,178,0
+76,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.02,2,1,159,0
+731,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,1,1,2,0.21,1,0,119,1
+447,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.06,1,1,137,0
+189,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.02,1,1,54,0
+272,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.02,1,1,149,0
+237,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.01,2,0,69,0
+488,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.05,1,1,171,0
+118,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.03,2,0,129,0
+944,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,7,0.24,4,1,79,1
+513,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,5,0.29,3,0,105,1
+826,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,5,0.33,4,0,130,1
+592,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,7,0.16,4,0,98,1
+127,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.07,1,0,197,0
+117,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.07,1,1,141,0
+474,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.03,1,1,126,0
+694,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,2,0.17,1,0,100,1
+58,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.07,0,1,193,0
+864,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,7,0.31,2,0,145,1
+913,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,5,0.16,3,1,118,1
+370,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.02,0,1,113,0
+269,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.07,2,0,148,0
+47,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,1,0.04,2,1,173,0
+350,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.02,0,0,51,0
+196,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.04,1,0,91,0
+1000,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,5,0.22,3,1,142,1
+835,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,4,0.28,3,1,104,1
+737,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,6,0.36,1,0,121,1
+264,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.08,1,0,171,0
+444,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,0,0.07,1,1,185,0
+676,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,6,0.24,1,1,144,1
+305,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.03,0,1,160,0
+342,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.02,2,0,87,0
+967,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,6,0.35,2,0,131,1
+150,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.07,2,0,34,0
+125,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.07,2,0,175,0
+787,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,6,0.16,2,0,81,1
+51,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.02,0,1,157,0
+354,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.06,2,0,154,0
+928,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,7,0.32,4,1,62,1
+143,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.08,1,1,181,0
+471,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,1,0.02,0,1,96,0
+400,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,0,0.04,0,1,95,0
+626,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,5,0.18,2,0,80,1
+321,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.08,2,1,177,0
+20,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.04,2,0,110,0
+810,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,7,0.32,4,1,142,1
+791,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,1,1,5,0.24,3,0,106,1
+809,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,2,0.24,4,1,32,1
+408,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.02,0,0,118,0
+538,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,7,0.15,1,0,141,1
+621,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,4,0.27,3,1,103,1
+39,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.02,0,1,142,0
+176,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.01,0,1,121,0
+246,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.02,0,0,117,0
+829,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,5,0.15,4,0,102,1
+668,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,5,0.27,4,0,53,1
+755,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,3,0.24,2,0,80,1
+859,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,0,1,6,0.3,2,0,137,1
+155,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.02,0,0,124,0
+288,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.01,2,0,110,0
+603,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,4,0.41,4,0,65,1
+570,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,0,1,6,0.17,3,1,88,1
+744,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,4,0.35,1,0,130,1
+18,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.03,0,0,186,0
+128,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.04,2,1,34,0
+323,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.01,0,1,198,0
+256,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.03,2,0,160,0
+658,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,6,0.15,2,0,137,1
+965,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,3,0.38,3,0,49,1
+191,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.06,1,0,140,0
+116,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.06,0,0,134,0
+617,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,6,0.16,1,0,65,1
+607,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,3,0.21,2,0,28,1
+181,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.02,0,0,55,0
+302,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.02,1,0,111,0
+760,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,5,0.35,1,1,87,1
+713,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,7,0.29,4,1,73,1
+724,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,5,0.35,1,1,79,1
+686,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,6,0.19,1,0,120,1
+980,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,3,0.42,4,1,32,1
+518,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,6,0.3,4,1,71,1
+985,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,7,0.28,3,1,86,1
+46,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.06,0,1,127,0
+910,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,0,1,4,0.32,4,0,32,1
+158,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.02,0,0,33,0
+852,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,7,0.18,1,0,111,1
+172,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.03,2,0,180,0
+17,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.04,1,0,82,0
+512,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,0,1,5,0.27,4,0,26,1
+49,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.05,2,1,176,0
+972,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,0,1,7,0.36,3,1,61,1
+941,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,0,1,5,0.21,2,1,101,1
+516,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,6,0.4,1,0,101,1
+953,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,7,0.22,3,1,44,1
+481,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.04,1,1,65,0
+284,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,0,0.05,1,0,178,0
+719,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,3,0.23,2,0,106,1
+878,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,7,0.3,3,1,34,1
+226,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.07,0,1,67,0
+27,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.01,2,0,119,0
+955,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,4,0.22,1,1,115,1
+438,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.07,0,1,83,0
+952,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,0,1,2,0.2,3,0,109,1
+365,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.07,1,0,56,0
+230,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.05,1,0,56,0
+38,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.06,1,1,181,0
+966,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,6,0.38,1,1,113,1
+375,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.03,0,0,62,0
+470,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.05,1,0,31,0
+968,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,2,0.3,4,0,127,1
+851,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,4,0.27,2,0,148,1
+705,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,4,0.31,2,1,53,1
+842,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,4,0.33,2,1,101,1
+195,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,0,0.01,0,1,99,0
+855,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,3,0.31,1,0,82,1
+865,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,3,0.41,2,1,134,1
+504,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,5,0.24,2,1,79,1
+970,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,2,0.4,1,1,94,1
+831,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,4,0.38,4,1,44,1
+580,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,3,0.37,3,1,139,1
+969,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,6,0.17,4,1,76,1
+163,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.01,2,0,114,0
+909,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,4,0.39,2,0,128,1
+153,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.04,2,0,190,0
+802,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,6,0.41,1,1,92,1
+994,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,4,0.25,3,0,110,1
+756,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,6,0.44,2,1,81,1
+112,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.04,0,0,193,0
+227,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.02,0,1,44,0
+689,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,5,0.29,2,1,89,1
+104,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.08,1,0,153,0
+422,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.08,1,0,68,0
+420,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,0,0.02,2,1,41,0
+751,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,4,0.44,4,1,87,1
+587,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,3,0.2,2,1,131,1
+781,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,3,0.42,1,1,42,1
+673,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,3,0.3,4,1,86,1
+120,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,0,0.08,2,1,81,0
+54,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.08,0,1,158,0
+152,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.08,2,0,55,0
+404,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.06,1,0,71,0
+946,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,3,0.23,2,0,41,1
+208,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.02,2,0,102,0
+659,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,0,1,2,0.2,3,1,136,1
+844,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,0,1,4,0.31,3,1,92,1
+763,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,7,0.34,2,1,23,1
+9,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.02,2,1,161,0
+808,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,4,0.36,1,0,102,1
+37,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.02,2,0,91,0
+453,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.07,2,1,173,0
+652,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,5,0.4,4,0,110,1
+254,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,0,0.04,1,1,142,0
+304,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,0,0.07,0,1,188,0
+747,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,5,0.29,4,0,23,1
+572,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,7,0.34,2,0,58,1
+624,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,0,1,5,0.16,3,1,82,1
+733,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,7,0.21,1,0,27,1
+892,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,3,0.42,1,0,81,1
+263,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.06,1,0,173,0
+611,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,4,0.29,2,0,42,1
+298,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.04,2,0,183,0
+415,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,0,0.06,0,0,149,0
+151,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.04,1,0,175,0
+789,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,2,0.44,3,0,104,1
+641,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,7,0.16,4,0,143,1
+890,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,0,1,4,0.34,1,0,90,1
+551,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,5,0.31,2,1,77,1
+887,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,5,0.18,4,0,67,1
+489,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.03,1,0,95,0
+148,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.07,0,1,111,0
+147,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.03,0,1,186,0
+721,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,6,0.43,1,0,126,1
+932,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,2,0.45,4,0,138,1
+740,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,2,0.44,4,1,84,1
+660,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,6,0.17,4,1,59,1
+349,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.05,1,0,185,0
+464,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,0,0.03,2,1,89,0
+326,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,1,0.08,0,0,192,0
+187,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,1,0.03,2,0,148,0
+124,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.01,2,1,162,0
+854,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,4,0.39,1,1,46,1
+609,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,3,0.4,4,0,95,1
+144,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.03,1,1,193,0
+959,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,0,1,2,0.23,1,1,103,1
+198,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.01,0,1,181,0
+610,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,7,0.2,1,1,53,1
+280,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.02,0,0,163,0
+294,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,0,0.03,2,0,78,0
+401,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.07,1,0,199,0
+123,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.06,2,0,71,0
+184,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,0,0.05,1,0,183,0
+203,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.06,0,1,142,0
+439,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.01,2,0,105,0
+247,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.04,2,0,179,0
+416,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.04,2,0,163,0
+933,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,6,0.17,4,1,72,1
+766,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,3,0.29,4,1,113,1
+907,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,7,0.18,4,0,144,1
+836,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,2,0.28,3,1,112,1
+888,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,5,0.38,2,1,120,1
+130,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.07,0,0,100,0
+638,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,5,0.18,2,1,86,1
+403,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.05,0,0,128,0
+785,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,6,0.37,1,1,43,1
+771,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,0,1,5,0.35,2,1,28,1
+736,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,2,0.18,2,0,63,1
+914,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,6,0.41,2,0,44,1
+220,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,0,0.07,2,1,82,0
+642,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,2,0.29,1,0,118,1
+916,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,4,0.32,4,0,106,1
+753,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,7,0.29,3,0,45,1
+807,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,7,0.36,2,1,78,1
+920,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,6,0.35,3,1,139,1
+625,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,4,0.34,1,1,38,1
+875,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,4,0.36,4,1,44,1
+761,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,0,1,5,0.45,4,0,109,1
+387,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,1,0.03,2,0,36,0
+973,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,4,0.38,3,0,36,1
+510,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,5,0.45,1,0,122,1
+268,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.07,0,1,40,0
+820,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,3,0.43,1,0,81,1
+442,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.01,2,0,139,0
+497,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.01,2,1,192,0
+113,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.04,2,0,128,0
+692,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,0,1,2,0.32,3,0,101,1
+233,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.05,1,0,133,0
+870,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,0,1,6,0.41,2,0,67,1
+608,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,7,0.31,3,1,140,1
+672,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,5,0.32,3,1,132,1
+374,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,0,0.02,1,1,124,0
+982,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,5,0.25,4,1,47,1
+843,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,4,0.3,3,0,121,1
+234,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.02,0,0,133,0
+786,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,5,0.2,1,0,135,1
+677,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,3,0.26,3,0,37,1
+318,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.04,2,1,66,0
+649,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,6,0.35,2,0,96,1
+411,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.03,2,1,43,0
+899,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,0,1,7,0.23,4,0,141,1
+710,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,4,0.16,3,0,58,1
+359,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.07,0,0,145,0
+259,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,1,0.07,0,0,96,0
+745,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,2,0.31,4,0,64,1
+628,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,2,0.4,1,0,97,1
+633,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,5,0.22,4,0,87,1
+283,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.01,1,0,80,0
+377,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.03,0,1,189,0
+385,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.08,2,0,189,0
+225,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.02,1,1,39,0
+954,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,4,0.19,2,1,72,1
+815,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,4,0.27,2,0,24,1
+473,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.07,1,1,71,0
+348,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.06,1,0,187,0
+506,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,4,0.27,1,0,29,1
+640,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,7,0.17,1,1,80,1
+988,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,2,0.15,4,0,63,1
+929,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,1,1,5,0.16,4,1,147,1
+906,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,4,0.3,3,0,123,1
+620,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,7,0.29,4,0,91,1
+856,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,5,0.41,1,0,65,1
+804,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,0,1,2,0.37,3,0,84,1
+646,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,6,0.32,2,1,126,1
+847,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,6,0.41,3,1,133,1
+557,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,1,1,5,0.2,1,1,36,1
+958,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,4,0.4,3,0,71,1
+578,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,6,0.23,1,0,126,1
+796,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,3,0.36,3,1,28,1
+86,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.07,0,0,35,0
+243,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.04,0,1,104,0
+699,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,7,0.44,3,0,38,1
+160,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.01,1,1,147,0
+525,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,1,1,5,0.3,1,1,96,1
+36,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.06,0,1,32,0
+541,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,7,0.38,4,1,105,1
+171,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.03,1,0,72,0
+655,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,3,0.18,3,1,103,1
+891,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,1,1,2,0.25,2,0,40,1
+858,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,2,0.25,1,0,25,1
+848,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,4,0.43,4,1,117,1
+945,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,1,1,2,0.28,3,0,76,1
+734,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,5,0.37,4,1,47,1
+96,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.02,1,0,58,0
+564,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,0,1,4,0.39,3,0,76,1
+241,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.04,0,0,166,0
+743,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,3,0.22,1,1,31,1
+575,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,5,0.35,4,0,127,1
+691,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,1,1,7,0.33,2,1,121,1
+461,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.05,1,0,44,0
+554,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,1,1,4,0.45,4,0,144,1
+889,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,1,1,6,0.26,4,1,118,1
+207,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.01,1,0,197,0
+393,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.06,2,1,111,0
+795,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,7,0.33,1,1,78,1
+398,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.06,0,1,137,0
+767,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,4,0.35,3,1,107,1
+849,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,7,0.39,2,0,23,1
+218,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,1,0.04,1,1,154,0
+5,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.08,0,1,87,0
+769,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,1,1,6,0.26,4,1,123,1
+643,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,7,0.33,1,1,75,1
+930,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,5,0.22,2,1,26,1
+613,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,4,0.34,4,0,35,1
+739,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,2,0.42,4,1,48,1
+547,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,6,0.2,2,1,91,1
+726,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,0,1,6,0.41,1,0,43,1
+684,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,6,0.28,3,1,36,1
+99,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,1,0.06,0,0,129,0
+805,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,4,0.29,4,1,115,1
+728,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,6,0.29,3,1,56,1
+574,"Dear customer, update your details",support@account-update-alert.tk,"Dear valued customer, your account details need updating. Failure to update will result in suspension: http://account-update-required.tk",1,1,0,1,7,0.22,4,1,76,1
+407,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.04,2,0,113,0
+503,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,5,0.17,4,1,147,1
+48,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.02,2,1,122,0
+33,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.05,1,1,57,0
+780,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,0,1,6,0.31,2,0,128,1
+840,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,2,0.21,1,0,53,1
+201,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.06,2,1,55,0
+135,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,0,0.06,0,0,121,0
+28,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,1,0.04,2,0,125,0
+881,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,5,0.31,1,0,101,1
+231,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.07,1,1,133,0
+490,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.02,2,0,104,0
+773,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,2,0.34,4,0,113,1
+379,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.05,1,1,126,0
+289,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,1,0.08,2,1,183,0
+419,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.03,0,0,88,0
+675,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,1,1,4,0.2,2,1,78,1
+392,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,0,0.08,0,1,148,0
+593,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,5,0.41,3,0,77,1
+499,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.05,0,1,62,0
+139,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,1,0.05,2,1,193,0
+63,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,1,0.03,2,0,174,0
+472,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.04,2,0,53,0
+648,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,0,1,2,0.18,3,0,60,1
+129,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.02,2,1,138,0
+977,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,0,1,6,0.44,3,1,102,1
+521,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,2,0.43,2,1,67,1
+839,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,0,1,6,0.41,4,1,66,1
+963,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,7,0.33,3,1,130,1
+65,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,1,0.03,1,1,138,0
+813,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,1,1,4,0.41,3,0,91,1
+15,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.04,1,1,43,0
+157,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.06,2,0,114,0
+41,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.03,0,1,110,0
+493,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.07,1,1,78,0
+380,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.05,0,0,187,0
+188,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.02,2,0,46,0
+764,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,1,1,4,0.37,1,1,36,1
+217,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.07,0,1,69,0
+792,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,3,0.42,1,0,131,1
+53,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,0,0.07,2,0,173,0
+879,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,0,1,4,0.17,2,0,147,1
+338,Quarterly review meeting,hr@enterprise.com,Your quarterly performance review is scheduled for next week. Please prepare your self-assessment.,0,0,0,0,0,0.03,1,1,176,0
+749,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,0,1,5,0.38,1,0,109,1
+720,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,3,0.29,2,0,140,1
+725,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,2,0.36,2,0,42,1
+296,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.05,2,1,178,0
+702,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,6,0.4,1,0,20,1
+252,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.04,0,0,59,0
+727,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,4,0.44,3,0,113,1
+462,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.02,0,0,199,0
+456,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.07,2,0,188,0
+997,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,1,1,6,0.18,1,0,56,1
+816,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,5,0.27,2,1,78,1
+863,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,6,0.37,2,1,37,1
+270,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.07,0,1,166,0
+202,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.07,0,1,183,0
+162,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.07,0,0,141,0
+556,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,6,0.15,3,0,57,1
+730,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,2,0.29,4,1,124,1
+402,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.05,1,0,41,0
+703,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,4,0.33,4,0,28,1
+477,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,1,0.06,2,1,178,0
+822,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,7,0.32,2,1,90,1
+772,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,4,0.44,1,1,108,1
+106,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,1,0.04,0,1,103,0
+566,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,4,0.36,3,1,143,1
+390,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,1,0.02,1,1,116,0
+2,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,0,0.05,1,0,104,0
+938,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,0,1,6,0.38,4,1,59,1
+983,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,3,0.25,4,0,133,1
+562,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,6,0.39,4,0,113,1
+81,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.07,2,0,121,0
+206,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.05,0,1,39,0
+35,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.07,0,0,158,0
+776,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,5,0.4,1,1,128,1
+509,You have a pending wire transfer,transfers@bank-wire-pending.ml,"A wire transfer of $8,750 is pending in your name. To receive your funds, verify your bank account: http://wire-transfer-pending.ml",1,1,1,1,7,0.23,3,1,116,1
+428,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.06,2,0,187,0
+455,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.07,1,0,36,0
+367,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.02,2,1,79,0
+92,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.07,2,1,125,0
+340,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,1,0.06,2,0,118,0
+898,Account verification required TODAY,security@account-verify-urgent.ml,Your account verification is required TODAY or your access will be revoked permanently. Act now: http://account-verify-today.ml,1,1,1,1,2,0.23,2,0,80,1
+565,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,1,1,7,0.34,1,1,23,1
+346,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.02,0,1,184,0
+777,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,1,1,5,0.16,3,0,60,1
+242,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.07,0,1,198,0
+14,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.05,0,0,175,0
+316,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.03,1,1,66,0
+601,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,7,0.19,1,0,27,1
+388,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.07,1,1,51,0
+274,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,0,0.03,1,0,54,0
+167,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.05,2,1,59,0
+841,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,4,0.29,3,1,77,1
+993,IRS tax refund notification,refunds@irs-tax-return.xyz,"The IRS has processed your tax refund of $3,200. Provide your banking details to receive payment: http://irs-refund-claim.xyz",1,1,0,1,6,0.33,2,0,89,1
+647,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,7,0.23,4,0,68,1
+819,Exclusive offer expires in 24 hours!!!,deals@exclusive-offer-now.xyz,Exclusive deal ONLY for you! 90 percent off expires in 24 hours!!! Buy now before it is too late: http://exclusive-deal-now.xyz,1,1,1,1,7,0.38,4,1,48,1
+485,Project update - Q3 report,manager@work.com,Here is the Q3 project update. All milestones are on track. Let me know if you need more details.,0,0,0,0,0,0.02,2,1,147,0
+981,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,1,1,3,0.36,1,1,102,1
+505,Your PayPal account is limited,service@paypal-secure-update.tk,Your PayPal account has been limited due to unusual activity. Please confirm your information here: http://paypal-secure-update.xyz,1,1,0,1,7,0.15,3,1,149,1
+832,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,0,1,5,0.34,1,1,26,1
+244,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.03,1,0,191,0
+567,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,0,1,2,0.44,1,0,80,1
+876,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,1,1,5,0.36,4,0,112,1
+563,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,0,1,2,0.28,2,0,135,1
+687,Claim your free iPhone 15 now!,rewards@prize-claim-center.xyz,You have been selected to receive a FREE iPhone 15! Claim your prize before it expires. Only pay $1.99 shipping: http://free-iphone-claim.xyz,1,1,1,1,7,0.22,4,0,136,1
+190,New feature release notes,updates@github.com,We are excited to announce the release of version 2.0. Check the release notes for details.,0,0,0,0,0,0.03,0,1,167,0
+783,Verify your account immediately,noreply@account-verify-now.ml,We detected suspicious activity on your account. Verify your identity NOW by clicking this link or your account will be permanently deleted: http://verify-account-now.tk,1,1,1,1,4,0.33,2,1,87,1
+700,Your package could not be delivered,delivery@dhl-package-alert.tk,Your DHL package could not be delivered. Pay $2.50 customs fee here or package will be returned: http://dhl-delivery-fee.tk,1,1,1,1,3,0.4,3,1,86,1
+476,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,0,0.05,0,0,89,0
+682,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,1,1,6,0.21,1,0,146,1
+511,Your Netflix account has been hacked,support@netflix-billing-update.tk,We noticed your Netflix account was accessed by hackers. Update your payment info here or lose access: http://netflix-update-billing.tk,1,1,1,1,5,0.2,4,1,82,1
+59,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,1,0.06,1,0,141,0
+475,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.02,0,0,99,0
+561,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,0,1,7,0.36,4,1,77,1
+857,Click here to receive your prize,rewards@gift-card-winner.tk,Click here within 24 hours to claim your prize of $500 gift card. Limited time offer!!!: http://prize-claim-now.tk,1,1,1,1,6,0.25,2,0,125,1
+748,Security alert: Your password expired,support@password-reset-alert.tk,Your password has expired and your account is at risk. Reset it immediately to avoid losing access: http://password-reset-urgent.tk,1,1,1,1,2,0.22,4,1,94,1
+253,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.05,1,0,107,0
+22,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.04,0,1,164,0
+314,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,1,0.04,2,1,162,0
+460,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,0,0.01,1,1,50,0
+161,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,0,0.05,0,1,162,0
+277,Feedback request - recent purchase,feedback@store.com,We would love your feedback on your recent purchase. Please take 2 minutes to fill the survey.,0,0,0,0,0,0.07,0,1,129,0
+956,You have been charged $499 - dispute now,billing@charge-alert-now.xyz,"You have been charged $499.99 for a subscription. If you did not authorize this, click here to dispute: http://charge-dispute-urgent.xyz",1,1,0,1,7,0.44,4,1,25,1
+192,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.05,0,1,112,0
+386,Welcome to our newsletter,newsletter@brand.com,Thank you for subscribing to our newsletter. You will receive updates once a week.,0,0,0,0,0,0.06,1,1,91,0
+806,FINAL NOTICE: Overdue payment,billing@payment-notice-urgent.ml,"FINAL NOTICE: You have an overdue payment of $2,450. Your account will go to collections unless you pay now at: http://payment-urgent-now.com",1,1,1,1,5,0.27,3,0,135,1
+414,Team lunch this Thursday,events@workplace.com,Join us for a team lunch this Thursday at 12:30pm at the downtown restaurant.,0,0,0,0,0,0.02,0,0,194,0
+492,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.07,2,0,115,0
+344,Invoice #1042 attached,billing@vendor.com,Please find the attached invoice for your recent purchase. Contact us if you have any questions.,0,0,0,0,1,0.03,1,0,188,0
+770,Confirm your identity to avoid suspension,verify@identity-confirm-now.xyz,Confirm your identity within 48 hours or your account will be permanently suspended. Click here: http://identity-confirm-now.xyz,1,1,1,1,4,0.23,3,0,112,1
+309,Happy Birthday from the team!,birthday@office.com,Wishing you a wonderful birthday! Hope you have a great day filled with joy.,0,0,0,0,0,0.05,1,1,84,0
+662,"You have won $1,000,000 lottery!",lottery@winner-notification.tk,"CONGRATULATIONS! You have been selected as the winner of our $1,000,000 international lottery. Send your bank details to claim your prize immediately.",1,1,0,1,6,0.27,1,0,81,1
+131,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.05,1,1,188,0
+664,Action required: Unusual login detected,alerts@login-security-check.xyz,Someone tried to login to your account from an unknown device. Click here to secure your account immediately: http://login-alert-security.ml/verify,1,1,0,1,7,0.41,4,0,138,1
+872,Congratulations! You are selected,prizes@grand-winner-select.ml,"Dear lucky winner, you have been selected for our grand prize giveaway! Enter your details to claim: http://grand-prize-winner.ml",1,1,1,1,3,0.3,1,0,45,1
+100,Document shared with you,workspace@notion.com,Sarah has shared a document with you. Click here to view it in your workspace.,0,0,0,0,0,0.04,0,0,39,0
+373,Office closed on Friday,admin@company.com,Please note that our office will be closed this Friday for a public holiday.,0,0,0,0,1,0.03,0,0,101,0
+88,Re: Budget proposal review,team@startup.com,I have reviewed the budget proposal and have a few suggestions. Let us discuss on Friday.,0,0,0,0,0,0.02,0,1,153,0
+459,New comment on your post,notifications@medium.com,John left a comment on your recent blog post. Log in to view and reply.,0,0,0,0,0,0.04,0,1,76,0
+331,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,0,0.01,1,1,199,0
+215,Job application received,careers@hiring.com,We have received your job application and will review it within 5 business days.,0,0,0,0,1,0.02,0,0,34,0
+467,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.07,0,0,178,0
+122,Your order has been shipped,orders@amazon.com,Your package has been shipped and will arrive in 3-5 business days. Track your order using the link below.,0,0,0,0,1,0.03,2,0,82,0
+615,Warning: Your email storage is full,admin@email-storage-warning.ml,Your email storage is 100 percent full. Your account will stop receiving emails unless you click here to upgrade free: http://email-storage-full.ml,1,1,0,1,7,0.41,4,0,106,1
+21,Meeting scheduled for tomorrow at 3pm,hr@company.com,"Hi, just a reminder that we have a team meeting tomorrow. Please review the agenda before joining.",0,0,0,0,1,0.06,0,0,34,0
+701,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,0,1,5,0.4,1,0,56,1
+72,Monthly statement available,statements@bank.com,Your monthly bank statement for February is now available in your online account.,0,0,0,0,1,0.07,2,0,189,0
+107,Your appointment confirmation,appointments@clinic.com,Your appointment is confirmed for March 15 at 2:30pm. Please arrive 10 minutes early.,0,0,0,0,0,0.02,0,1,124,0
+271,Your password was changed successfully,security@google.com,"Your account password was successfully changed. If you did not make this change, contact support.",0,0,0,0,1,0.07,2,1,115,0
+861,URGENT: Your account will be suspended,security-alert@gmail-verify.xyz,Your account will be suspended in 24 hours. Click here immediately to verify your information and avoid losing access: http://secure-login-verify.xyz/account,1,1,0,1,7,0.24,3,0,106,1
+436,Your subscription has been renewed,subscriptions@netflix.com,Your annual subscription has been renewed. Thank you for your continued support.,0,0,0,0,1,0.04,1,1,131,0
+103,Weekly team standup reminder,noreply@slack.com,This is a reminder for our weekly standup meeting every Monday at 10am.,0,0,0,0,0,0.02,2,1,157,0

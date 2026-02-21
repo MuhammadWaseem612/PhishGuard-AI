@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>PhishGuard AI — Email Threat Detector</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="/static/css/style.css"/>
+</head>
+<body>
+
+<div class="bg-orbs">
+  <div class="orb orb-1"></div>
+  <div class="orb orb-2"></div>
+  <div class="orb orb-3"></div>
+</div>
+
+<!-- ═══════════ SIDEBAR ═══════════ -->
+<aside class="sidebar">
+  <div class="sidebar-logo">
+    <div class="logo-icon">🛡️</div>
+    <div>
+      <div class="logo-text">PhishGuard</div>
+      <div class="logo-sub">AI · v2.0</div>
+    </div>
+  </div>
+
+  <nav class="nav-links">
+    <div class="nav-section">Detection</div>
+    <div class="nav-item active" data-section="scan">
+      <span class="nav-icon">🔍</span>
+      <span>Scan Email</span>
+    </div>
+    <div class="nav-item" data-section="history">
+      <span class="nav-icon">📋</span>
+      <span>Scan History</span>
+      <span class="threat-counter" id="historyCount">0</span>
+    </div>
+
+    <div class="nav-section">Intelligence</div>
+    <div class="nav-item" data-section="models">
+      <span class="nav-icon">🧠</span>
+      <span>ML Models</span>
+    </div>
+    <div class="nav-item" data-section="about">
+      <span class="nav-icon">ℹ️</span>
+      <span>About</span>
+    </div>
+  </nav>
+
+  <div class="sidebar-footer">
+    <div class="status-badge">
+      <span class="status-dot"></span>
+      <div>
+        <div class="status-text" id="sidebarStatus">System Active</div>
+        <div class="status-sub" id="sidebarModel">Loading...</div>
+      </div>
+    </div>
+  </div>
+</aside>
+
+<!-- ═══════════ MAIN ═══════════ -->
+<main class="main">
+
+  <div class="topbar">
+    <div>
+      <h1 class="page-title"><span>PhishGuard</span> AI Detector</h1>
+      <p class="page-subtitle">AI-powered phishing email detection and threat analysis</p>
+    </div>
+    <div class="stat-chips">
+      <div class="chip red">🛡️ 5 ML Models</div>
+      <div class="chip cyan">⚡ Real-time Scan</div>
+      <div class="chip green" id="chipAccuracy">📊 Loading...</div>
+    </div>
+  </div>
+
+  <!-- ════ SCAN ════ -->
+  <section class="section active" id="sec-scan">
+    <div class="scan-grid">
+
+      <!-- Input Card -->
+      <div class="card">
+        <div class="card-title">📨 Email Content</div>
+
+        <div class="sample-btns">
+          <button class="btn-sample-phish" onclick="loadSample('phishing', 0)">🎣 Phishing Sample 1</button>
+          <button class="btn-sample-phish" onclick="loadSample('phishing', 1)">🎣 Phishing Sample 2</button>
+          <button class="btn-sample-safe"  onclick="loadSample('safe', 0)">✅ Safe Sample</button>
+        </div>
+
+        <textarea
+          id="emailInput"
+          class="email-area"
+          placeholder="Paste email content here to scan for phishing threats...
+
+Example: Subject line, email body, any suspicious links or requests.
+
+The AI will analyze it for phishing indicators, suspicious URLs, urgency tactics, and more."
+        ></textarea>
+
+        <div class="model-select-row">
+          <span class="model-select-label">🧠 Model</span>
+          <select id="modelSelect">
+            {% for model in models %}
+            <option value="{{ model }}">{{ model }}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <button class="btn-scan" id="btnScan" onclick="scanEmail()">
+          🔍 Scan for Threats
+        </button>
+
+        <div class="scan-loading" id="scanLoading">
+          <span>Analyzing email</span>
+          <div class="scan-dots">
+            <span></span><span></span><span></span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Result Card -->
+      <div class="card">
+        <div class="card-title">🎯 Scan Result</div>
+
+        <!-- Placeholder -->
+        <div class="result-placeholder" id="resultPlaceholder">
+          <div class="placeholder-shield">
+            <div class="placeholder-icon">🛡️</div>
+          </div>
+          <div>
+            <div class="placeholder-title">Awaiting Scan</div>
+            <p class="placeholder-text">Paste an email and click Scan to detect phishing threats</p>
+          </div>
+        </div>
+
+        <!-- Result -->
+        <div class="result-content" id="resultContent">
+
+          <!-- Verdict -->
+          <div class="verdict-box" id="verdictBox">
+            <div class="verdict-inner">
+              <div class="verdict-icon" id="verdictIcon">🛡️</div>
+              <div>
+                <div class="verdict-label" id="verdictLabel">ANALYZING</div>
+                <div class="verdict-title" id="verdictTitle">—</div>
+                <div class="verdict-model" id="verdictModel">—</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Confidence -->
+          <div class="conf-section">
+            <div class="conf-row">
+              <span class="conf-label">Threat Confidence</span>
+              <span class="conf-value" id="confValue">—</span>
+            </div>
+            <div class="conf-track">
+              <div class="conf-fill" id="confFill"></div>
+            </div>
+          </div>
+
+          <!-- Risk indicators grid -->
+          <div class="risk-grid" id="riskGrid"></div>
+
+          <!-- Phishing indicators -->
+          <div class="indicators-section">
+            <div class="indicators-title">⚠️ Detected Threat Indicators</div>
+            <div id="indicatorsList"></div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ════ HISTORY ════ -->
+  <section class="section" id="sec-history">
+    <div class="history-header">
+      <h2 style="font-family:var(--font-head);font-size:18px;font-weight:700">📋 Scan History</h2>
+      <button class="btn-ghost" onclick="clearHistory()">🗑️ Clear All</button>
+    </div>
+    <div class="card">
+      <div class="history-table-wrap">
+        <table class="history-table">
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Verdict</th>
+              <th>Confidence</th>
+              <th>Model Used</th>
+              <th>Indicators</th>
+              <th>Email Preview</th>
+            </tr>
+          </thead>
+          <tbody id="historyBody">
+            <tr class="empty-row" id="emptyRow">
+              <td colspan="6">No scans yet. Paste an email and run a scan! 🛡️</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════ MODELS ════ -->
+  <section class="section" id="sec-models">
+    <div style="margin-bottom:20px">
+      <h2 style="font-family:var(--font-head);font-size:18px;font-weight:700;margin-bottom:6px">🧠 ML Model Performance</h2>
+      <p style="color:var(--text-muted);font-size:13px">Trained on phishing email dataset with TF-IDF features + NLP preprocessing</p>
+    </div>
+    <div class="models-grid" id="modelsGrid">
+      <div class="no-models-msg" style="grid-column:1/-1">
+        ⏳ Loading model data... Make sure you have run <code style="color:var(--red)">python train_model.py</code> first.
+      </div>
+    </div>
+  </section>
+
+  <!-- ════ ABOUT ════ -->
+  <section class="section" id="sec-about">
+    <div class="about-grid">
+
+      <div class="card">
+        <div class="card-title">🛡️ About PhishGuard AI</div>
+        <p class="about-desc">
+          PhishGuard AI is an advanced email threat detection system powered by 5 machine learning models.
+          It uses NLP text analysis, TF-IDF vectorization, and heuristic phishing indicators to classify
+          emails as phishing or legitimate with high accuracy.
+        </p>
+        <div class="about-stat-grid">
+          <div class="about-stat">
+            <div class="about-stat-num">5</div>
+            <div class="about-stat-lbl">ML Models</div>
+          </div>
+          <div class="about-stat">
+            <div class="about-stat-num">99%</div>
+            <div class="about-stat-lbl">Top Accuracy</div>
+          </div>
+          <div class="about-stat">
+            <div class="about-stat-num">NLP</div>
+            <div class="about-stat-lbl">Text Analysis</div>
+          </div>
+          <div class="about-stat">
+            <div class="about-stat-num">6+</div>
+            <div class="about-stat-lbl">Threat Types</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">⚠️ Threat Indicators Detected</div>
+        <div class="indicator-list">
+          <div class="indicator-item">
+            <div class="indicator-dot" style="background:#ef4444;color:#ef4444"></div>
+            <div><div class="indicator-name">Urgency Words</div><div class="indicator-desc">urgent, immediately, act now, expire</div></div>
+          </div>
+          <div class="indicator-item">
+            <div class="indicator-dot" style="background:#f97316;color:#f97316"></div>
+            <div><div class="indicator-name">Suspicious Links</div><div class="indicator-desc">Shortened or fake domain URLs</div></div>
+          </div>
+          <div class="indicator-item">
+            <div class="indicator-dot" style="background:#eab308;color:#eab308"></div>
+            <div><div class="indicator-name">Money / Prize</div><div class="indicator-desc">lottery, winner, million, cash reward</div></div>
+          </div>
+          <div class="indicator-item">
+            <div class="indicator-dot" style="background:#a855f7;color:#a855f7"></div>
+            <div><div class="indicator-name">Verify / Confirm</div><div class="indicator-desc">Requests to verify account or identity</div></div>
+          </div>
+          <div class="indicator-item">
+            <div class="indicator-dot" style="background:#06b6d4;color:#06b6d4"></div>
+            <div><div class="indicator-name">Threat / Suspend</div><div class="indicator-desc">Account suspension or termination threats</div></div>
+          </div>
+          <div class="indicator-item">
+            <div class="indicator-dot" style="background:#ec4899;color:#ec4899"></div>
+            <div><div class="indicator-name">Personal Data</div><div class="indicator-desc">Requests for password, SSN, credit card</div></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+</main>
+
+<script src="/static/js/app.js"></script>
+</body>
+</html>

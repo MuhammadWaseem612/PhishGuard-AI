@@ -1,0 +1,35 @@
+{
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 1.0,
+      "cv_mean": 1.0,
+      "cv_std": 0.0
+    },
+    "Random Forest": {
+      "accuracy": 1.0,
+      "cv_mean": 1.0,
+      "cv_std": 0.0
+    },
+    "Naive Bayes": {
+      "accuracy": 1.0,
+      "cv_mean": 1.0,
+      "cv_std": 0.0
+    },
+    "Linear SVM": {
+      "accuracy": 1.0,
+      "cv_mean": 1.0,
+      "cv_std": 0.0
+    },
+    "Gradient Boosting": {
+      "accuracy": 1.0,
+      "cv_mean": 1.0,
+      "cv_std": 0.0
+    }
+  },
+  "best_model": "Logistic Regression",
+  "best_accuracy": 1.0,
+  "classes": [
+    0,
+    1
+  ]
+}
