@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Models (bade files)
+models/*.pkl
+
+# Dataset
+dataset/*.csv
+
+# Plots
+static/plots/
+
+# Virtual env
+venv/
+env/
+
+# VS Code
+.vscode/
